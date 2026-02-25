@@ -1,0 +1,8 @@
+{
+  "name": "OmniAI",
+  "description": "An all-in-one AI platform combining advanced coding assistance, image generation, and multi-modal workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
